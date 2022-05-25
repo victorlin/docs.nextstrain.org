@@ -9,7 +9,7 @@ Share Analyses through Nextstrain
    :hidden:
 
    Nextstrain Groups <groups/index>
-   Nextstrain Community <community-builds>
+   Nextstrain Community <community-datasets>
    Public URLs <fetch-via-urls>
    SARS-CoV-2 datasets <sars-cov-2>
    Downloading data <download-data>
@@ -51,11 +51,10 @@ See `nextstrain.org/pathogens <https://nextstrain.org/pathogens>`__ for more inf
 Nextstrain Community
 --------------------
 
-To make supporting this philosophy as easy as possible, we have created a "community builds" functionality, whereby GitHub is used to store the results of your analyses and the results are available for everyone via nextstrain.org.
-This is behind the `community builds <https://nextstrain.org/#community>`__ which you can see on the main page.
+To make supporting this philosophy as easy as possible, we have created a "community datasets" functionality, whereby GitHub is used to store the results of your builds and the results are available for everyone via nextstrain.org.
+This is behind the `community datasets <https://nextstrain.org/community>`__ which you can see on the main page.
 
-See :doc:`community-builds` for more information, including a step-by-step guide on how you can get your datasets up as a community build.
-
+See :doc:`community-datasets` for more information, including a step-by-step guide on how you can publish your datasets on https://nextstrain.org/community.
 
 Nextstrain Groups
 -----------------
@@ -64,7 +63,7 @@ Groups are an initiative to allow research labs, public health entities and othe
 Groups can either be private or public in order to allow data sharing to the correct audience -- you can see an example of a public group `here <https://nextstrain.org/groups/blab>`__.
 Private groups will only be visible to people who have a login to nextstrain.org and the permissions to see datasets in the group.
 
-Nextstrain Groups are more scalable than community managed datasets, especially if you have many large datasets, and we're excited with the future possibilities that this opens up.
+Nextstrain Groups are more scalable than community datasets, especially if you have many large datasets, and we're excited with the future possibilities that this opens up.
 
 See :doc:`groups/index` for more information.
 

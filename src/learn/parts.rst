@@ -220,7 +220,7 @@ As an example, our core workflows are organized as `Git repositories <https://gi
 `nextstrain.org <https://nextstrain.org>`__ is a web application to host and
 present the core pathogen datasets maintained by the Nextstrain team, as well as
 datasets published to :doc:`Nextstrain Groups </guides/share/groups/index>`
-and :doc:`community pages </guides/share/community-builds>` which are
+and :doc:`community datasets </guides/share/community-datasets>` which are
 maintained and :doc:`shared </guides/share/index>` by many other people.  The
 website incorporates a customized version of Auspice for displaying each
 dataset.

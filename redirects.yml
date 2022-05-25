@@ -170,3 +170,7 @@
 - type: page
   from_url: /guides/share/nextstrain-groups.html
   to_url: /guides/share/groups/index.html
+
+- type: page
+  from_url: /guides/share/community-builds.html
+  to_url: /guides/share/community-datasets.html

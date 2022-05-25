@@ -295,4 +295,4 @@ Next steps
 
 -  Learn more about :doc:`Augur commands <augur:index>`.
 -  Learn more about :doc:`Auspice visualizations <auspice:index>`.
--  Fork the `Zika tutorial pathogen repository on GitHub <https://github.com/nextstrain/zika-tutorial>`_, modify the Snakefile to make your own pathogen workflow, and learn :doc:`how to contribute to nextstrain.org </guides/share/community-builds>`.
+-  Fork the `Zika tutorial pathogen repository on GitHub <https://github.com/nextstrain/zika-tutorial>`_, modify the Snakefile to make your own pathogen workflow, and learn :doc:`how to contribute to nextstrain.org </guides/share/community-datasets>`.
